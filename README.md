@@ -103,6 +103,7 @@ Desenvolver um aplicativo móvel para usuários (clientes e motoristas) com func
 - Especificações técnicas para desenvolvimento.
 
 Este documento serve como uma base inicial para o desenvolvimento do projeto "Muda Fácil". É importante revisar e atualizar este documento conforme o projeto evolui, garantindo que todos os requisitos sejam atendidos de forma eficaz.
+
 -------
 
 # Estrutura Analítica do Projeto (EAP) - Muda Fácil
